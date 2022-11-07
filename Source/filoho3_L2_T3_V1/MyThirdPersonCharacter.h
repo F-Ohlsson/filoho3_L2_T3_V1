@@ -14,7 +14,6 @@ class FILOHO3_L2_T3_V1_API AMyThirdPersonCharacter : public ACharacter
 public:
 	// Sets default values for this character's properties
 	AMyThirdPersonCharacter();
-	int test = 0;
 
 protected:
 	// Called when the game starts or when spawned
